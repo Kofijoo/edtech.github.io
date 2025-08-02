@@ -1,0 +1,20 @@
+# Ignore unnecessary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore old/unused files
+css/style.css
+js/scripts.js
+style.css
+*.mp4
+*.docx
+EMAILS OF INTERNATIONAL SCHOOLS.docx
+STATEMENT OF EXPERIENCE.docx
+TEACHING CERT JOSH.pdf
+Josh Master Certificate _compressed.pdf
+Resume-Joshua-Agyekum-M.Sc,-M.Ed,-B.Ed.pdf
+Certificates/
+
+# Keep only essential files for portfolio

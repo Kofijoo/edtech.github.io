@@ -263,7 +263,7 @@
 ## 🔗 Professional Links & Verification
 
 ### Portfolio & Code Repositories
-- **Live Portfolio:** [https://kofijoo.github.io/myresume.github.io/](https://kofijoo.github.io/myresume.github.io/)
+- **Live Portfolio:** [https://kofijoo.github.io/edtech.github.io/](https://kofijoo.github.io/edtech.github.io/)
 - **GitHub Profile:** [https://github.com/Kofijoo](https://github.com/Kofijoo)
 - **LinkedIn Profile:** [https://www.linkedin.com/in/joshua-agyekum](https://www.linkedin.com/in/joshua-agyekum)
 
@@ -288,8 +288,7 @@
 - **Availability:** Immediate start - No relocation required
 
 **Resume Downloads:**
-- **English Resume:** [Download PDF](./Joshua_Agyekum_Education_Resume_Eng.pdf)
-- **Norwegian CV:** [Download PDF](./Joshua_Agyekum_CV_Norsk.pdf)
+- **English Resume:** [Download PDF](./Joshua_Agyekum_EdTech_Resume_Professional.pdf)
 
 ---
 
