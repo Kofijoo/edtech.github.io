@@ -103,7 +103,7 @@
 
 ## 🏆 Featured EdTech Projects
 
-### NorskLær - AI-Powered Norwegian Language Learning Platform
+### NorskLær - AI-Powered Norwegian Language Learning Platform ([View Code](https://github.com/Kofijoo/norsklaer))
 - **Technology Stack:** Python/Django, React.js, TensorFlow AI/ML, PostgreSQL
 - **Cloud Infrastructure:** AWS EC2, S3, CloudFront CDN, Docker containers
 - **Key Features:** Adaptive learning algorithms, speech recognition, cultural context integration
@@ -111,7 +111,7 @@
 - **Business Impact:** Addresses critical need for employment and citizenship language requirements
 - **Technical Achievement:** Personalized curriculum based on proficiency levels (A1-C2)
 
-### EduAnalytics Pro - Learning Analytics Dashboard
+### EduAnalytics Pro - Learning Analytics Dashboard ([View App](https://eduanalytics-pro-garcy4kzhdd9nhuy3ffvgr.streamlit.app/))
 - **Technology Stack:** Python data science stack, Power BI, MySQL, AWS CloudWatch
 - **Analytics Capabilities:** Predictive modeling, engagement analysis, ROI tracking
 - **Machine Learning:** Early dropout detection with 85% accuracy using Scikit-learn
