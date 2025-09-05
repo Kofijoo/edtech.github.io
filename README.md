@@ -2,13 +2,13 @@
 
 ## 🚀 Ready to Transform Norwegian EdTech - Available Immediately
 
-**Senior Educational Technology Developer** with M.Ed. in EdTech, Norwegian language proficiency (B1-B2), and permanent residence in Oslo. Specialized in Learning Management Systems, AI-powered educational platforms, cloud infrastructure, and data-driven learning analytics with proven track record of scalable EdTech solutions.
+**Educational Technology Developer** with M.Ed. in EdTech, Norwegian language proficiency (B1-B2), and permanent residence in Oslo. Specialized in Learning Management Systems, AI-powered educational platforms, cloud infrastructure, and data-driven learning analytics with proven track record of scalable EdTech solutions.
 
 ---
 
 ## 📍 Location & Availability
 - **Based in Oslo, Norway** - Permanent residence + valid work permit
-- **Norwegian Language:** B1-B2 certified ([Verify Official Results](https://app.vitnemalsportalen.no/vp/shared/CB4FE2E65C384FFD9D37D41C780F362A))
+- **Norwegian Language:** B1 certified ([Verify Official Results](https://app.vitnemalsportalen.no/vp/shared/CB4FE2E65C384FFD9D37D41C780F362A))
 - **Available for immediate start** - No visa sponsorship required
 - **Contact:** joshuaagyekum21@gmail.com | +47 46399384
 
@@ -18,7 +18,7 @@
 
 ### ✅ Norwegian Market Ready
 - **3+ years living and working in Norway** with cultural integration
-- **B1-B2 Norwegian language certification** from Oslo Voksenopplæring
+- **B1 Norwegian language certification** from Oslo Voksenopplæring
 - **Norwegian workplace experience** demonstrating professional adaptation
 - **MSc from Norwegian University of Life Sciences (NMBU)** - Local academic credentials
 - **Understanding of Norwegian education system** and digitalization initiatives
@@ -49,7 +49,8 @@
 ---
 
 ## 🎯 Target Positions
-- **Senior Educational Technology Developer**
+- **Instructional Designer**
+- **Educational Technology Developer**
 - **EdTech Platform Architect**
 - **Learning Management Systems Developer**
 - **Digital Learning Solutions Engineer**
