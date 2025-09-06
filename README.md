@@ -159,7 +159,7 @@
   - **Coursework:** Economy, Statistical Analysis, Research Methodology
   - **Norwegian Academic Integration:** Local university experience and networking
 
-- **B.Ed. Early Childhood Education** - First Class Honours (2014-2018)
+- **B.Ed. Education Technology** - First Class Honours (2014-2018)
   - **CGPA:** 3.69/4.00, Top 5 student out of 240
   - **Awards:** Best Graduating Student, Dean's Award of Excellence
   - **Research:** Use of manipulative tools to improve basic arithmetic
