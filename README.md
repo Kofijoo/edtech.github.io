@@ -49,7 +49,6 @@
 ---
 
 ## 🎯 Target Positions
-- **Instructional Designer**
 - **Educational Technology Developer**
 - **EdTech Platform Architect**
 - **Learning Management Systems Developer**
@@ -57,6 +56,7 @@
 - **Educational Software Engineer**
 - **EdTech Infrastructure Specialist**
 - **Learning Analytics Developer**
+- **Senior EdTech Developer**
 
 ---
 
@@ -208,11 +208,11 @@
 
 ## 🌟 Professional Experience
 
-### DevOps Engineer & EdTech Infrastructure | JOMACS Academy (Canada) | 2024–Present
-- **Educational Platform Deployment:** Automated deployment using Docker and Kubernetes for scalable learning environments
-- **CI/CD Implementation:** Developed workflows for educational content delivery systems using GitHub Actions
-- **Infrastructure Automation:** Cloud server provisioning using Bash and Terraform for educational platforms
-- **Performance Optimization:** Achieved 99.9% uptime through proactive monitoring and system optimization
+### Educational Technology Developer | JOMACS Academy (Canada) | 2024–Present
+- **AI-Powered Learning Platforms:** Developed WebXR educational platforms with AI-powered interactive characters
+- **SCORM-Compliant Systems:** Built educational games achieving 99.9% uptime on cloud infrastructure
+- **Automated Deployment:** Implemented Docker and Kubernetes pipelines for scalable learning environments
+- **Multilingual Platforms:** Created Norwegian language certification platforms supporting A1-C2 levels
 
 ### Educational Technology Specialist | First Talk EduCare, China | 2021-2022
 - **Digital Learning Systems:** Implemented phonics learning system using Jolly Phonics methodology
