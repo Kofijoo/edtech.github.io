@@ -2,7 +2,7 @@
 
 ## 🚀 Ready to Transform Norwegian EdTech - Available Immediately
 
-**Educational Technology Developer** with M.Ed. in EdTech, Norwegian language proficiency (B1-B2), and permanent residence in Oslo. Specialized in Learning Management Systems, AI-powered educational platforms, cloud infrastructure, and data-driven learning analytics with proven track record of scalable EdTech solutions.
+**Educational Technology Developer** with M.Ed. in EdTech, Norwegian language proficiency (B1), and permanent residence in Oslo. Specialized in Learning Management Systems, AI-powered educational platforms, cloud infrastructure, and data-driven learning analytics with proven track record of scalable EdTech solutions.
 
 ---
 
@@ -148,7 +148,7 @@
 
 ### Advanced Degrees
 - **M.Ed. Education Technology** - Huzhou University, China (2019-2022)
-  - **Specialization:** AI in education, learning analytics, instructional design
+  - **Specialization:** Educational Technology Developer | Instructional Designer | eLearning Developer | Learning Experience Strategist
   - **Coursework:** Data Mining, Deep Learning, Educational Statistics, Curriculum Design
   - **Thesis:** Successfully defended master's thesis in Education Technology
   - **Certificate ID:** 10347920202040136 (Chinese Ministry of Education recognized)
@@ -187,7 +187,7 @@
 - **Operations Management Professional** - Educational platform operations
 
 #### Language Proficiency
-- **Norwegian Language Proficiency:** B1-B2 (Official) - [Verify](https://app.vitnemalsportalen.no/vp/shared/CB4FE2E65C384FFD9D37D41C780F362A)
+- **Norwegian Language Proficiency:** B1(Official) - [Verify](https://app.vitnemalsportalen.no/vp/shared/CB4FE2E65C384FFD9D37D41C780F362A)
 - **TEFL Certificate:** 120 Hours (High Distinction)
 - **HSK Level 3:** Mandarin Chinese (239/300)
 - **English Proficiency:** Academic level (Native-level fluency)
