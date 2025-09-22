@@ -150,7 +150,6 @@
 - **M.Ed. Education Technology** - Huzhou University, China (2019-2022)
   - **Specialization:** Educational Technology Developer | Instructional Designer | eLearning Developer | Learning Experience Strategist
   - **Coursework:** Data Mining, Deep Learning, Educational Statistics, Curriculum Design
-  - **Thesis:** Successfully defended master's thesis in Education Technology
   - **Certificate ID:** 10347920202040136 (Chinese Ministry of Education recognized)
   - **[Verify Degree](https://www.chsi.com.cn/xlrz/bgcx.jsp?v=12846877-223-F82B0102)**
 
