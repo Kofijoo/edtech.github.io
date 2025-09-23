@@ -285,7 +285,6 @@
 - **Phone:** +47 46399384
 - **Location:** Oslo, Norway
 - **Time Zone:** CET (Central European Time)
-- **Availability:** Immediate start - No relocation required
 
 **Resume Downloads:**
 - **English Resume:** [Download PDF](./Joshua_Agyekum_EdTech_Resume_Professional.pdf)
